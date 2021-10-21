@@ -1,0 +1,2 @@
+# LadecouvertduJapon
+This web site is about Japon and I called my web site découvert du japon because my site is in franche language. I made this web site with html/css and a little JavaScript and I used css grid to place my images.  At the top of the page you can see the navbar and the home page and after that you will see the description of the sights of Japon (you can click on en savoir plus to see more informations) . Then you Will réserve your trip and you can send some messages if you want to ask something. 
